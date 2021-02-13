@@ -44,14 +44,15 @@ h3 {
   border-bottom: 1px grey dotted; 
   border-top: 1px grey dotted;
 }
-dl { 
-  font-family: 'Franklin Gothic', Arial, sans-serif; 
-  font-size: 1.1rem; 
+dl {
+  font-family: 'Franklin Gothic', Arial, sans-serif;
+  font-size: 1.1rem;
   padding: 12px 0;
 }
+
 dt {
-  float: left; 
-  margin-right: 5px; 
+  float: left;
+  margin-right: 5px;
   font-weight: bold;
 }
 ul {
@@ -64,7 +65,7 @@ ol {
 #nutrition li {
   list-style-type: none; 
   border-bottom: grey dotted 1px; 
-  /* background-color: red;*/ 
+  /* background-color: red;*/
   float: left; 
   width: 48%
 }
