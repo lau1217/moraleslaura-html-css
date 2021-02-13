@@ -64,7 +64,7 @@ ol {
 #nutrition li {
   list-style-type: none; 
   border-bottom: grey dotted 1px; 
-  background-color: red; 
+  /* background-color: red;*/ 
   float: left; 
   width: 48%
 }
