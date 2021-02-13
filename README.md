@@ -1,5 +1,5 @@
-# Laura's HTML class assignment
+# Laura's Css class assignment
 
 By Laura Morales, Intro Coding for Journalists class
 
-VHTML class assignment, it is due Feb. 5, 2021.
+CSS class assignment, it is due Feb. 12, 2021.
